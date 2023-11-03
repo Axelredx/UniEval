@@ -10,7 +10,7 @@ Legend: each subject is valuated with a rating up to 5 in:
 
 # 1st YEAR
   *Algebra e Geometria (Geometry and Linear Algebra)*
- +        1) -> 2/5      2) -> 3/5
++         1) -> 2/5      2) -> 3/5
           3) Written Exam -> 2,5/5  Oral exam -> 2/5
           4) -> 2,375/5
 
@@ -30,7 +30,7 @@ Legend: each subject is valuated with a rating up to 5 in:
           4) -> 3,25/5
 
   *Idoneità lingua inglese B-1 (English language certification)*
- +          (Senseless to evaluate)
++         (Senseless to evaluate)
 
   *Logica per L'informatica (Descrete Math)*
 +         1) -> 3,5/5      2) -> 2,5/5
