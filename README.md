@@ -32,7 +32,7 @@ Legend: each subject is valuated with a rating up to 5 in:
   *Idoneità lingua inglese B-1 (English language certification)*
  +          (Senseless to evaluate)
 
-  *Logica per L'informatica (Mathematical and Computer science Logic with some theoretical Algebra)*
+  *Logica per L'informatica (Descrete Math)*
 +         1) -> 3,5/5      2) -> 2,5/5
           3) Written Exam -> 1,5/5  Oral exam (only if requested by professor) -> N/A
           4) -> 2,5/5
