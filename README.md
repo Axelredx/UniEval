@@ -1,5 +1,5 @@
 # UniEval
-NOTE: this file is not intended to offend anyone it's just a personal recap of the subject of the cs course I've succeded at cs course of UniBo.
+NOTE: this file is not intended to offend anyone in any way, it's just a personal recap of the subject of the cs course I've succeded at cs course of UniBo.
 
 Legend: each subject is valuated with a rating up to 5 in:
 +         1.Personal level of interest 2.Difficulty of the subject
