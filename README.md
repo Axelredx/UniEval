@@ -15,7 +15,7 @@ Legend: each subject is valuated with a rating up to 5 in:
           3) Written Exam -> 2,5/5  Oral exam -> 2/5
           4) -> 2,375/5
 
-  *Algoritmi e Strutture  di Dati (Alghoritm and Data structure)*
+  *Algoritmi e Strutture di Dati (Alghoritm and Data structure)*
 +          1) -> 4,5/5      2) -> 4/5
           3) Written Exam -> 1,5/5  Project (An ai that predict up to 8 moves ahead in ConnectX game in .java)-> 3,5/5
           4) -> 3,375/5
@@ -42,3 +42,15 @@ Legend: each subject is valuated with a rating up to 5 in:
 +         1) -> 4,5/5      2) -> 4/5
           3) Written Exam -> 3/5   Project (game in ASCII graphicswritten using the library 'NCurses' in C++) -> 3/5
           4) -> 3,5/5
+
+# 2nd YEAR
+
+  *Ottimizzazione Combinatoria (Graph Alghoritm and various other things)*
++         1) -> 3.5/5      2) -> 3/5
+          3) Written Exam -> 3.5/5  Oral exam -> 2/5
+          4) -> 3/5
+
+  *Calcolo Numerico (Algebra and Numerical analisys applied to things like Image restoration)*
++         1) -> 3/5      2) -> 3/5
+          3) Written Exam -> 5/5  Oral exam -> 2/5
+          4) -> 3,25/5
