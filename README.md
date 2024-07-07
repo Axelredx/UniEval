@@ -54,7 +54,7 @@ Legend: each subject is valuated with a rating 0 to 5 in:
           3) Written Exam -> 5/5  ||  Oral exam -> 2/5
           4) -> 3,25/5
 
-  *Linguaggi di Programmazione ([module 1]Automs, Pda, regular expression ...; [Module 2]Memory stack, Scope ...; [Module 3]Type theory, Polymorfism, OOP paradigm...)*
+  *Linguaggi di Programmazione ([module 1]Automs, PDA, Regular Expression ...; [Module 2]Memory stack, Variable Scoping, Downward Funarg Problem ...; [Module 3]Type theory, Polymorfism, OOP paradigm...)*
 +         1) -> [1] 1.5/5, [2] 2/5, [3] 3.5/5      2) -> [1] 3.5/5, [2] 4/5, [3] 3/5
           3) Written Exam -> [1] 2/5, [2] 3/5, [3] 2.5/5  ||  Oral exam -> [1] 1.5/5, [3] 2/5
           4) -> [1] 2.125 [2] 3 [3] 2.75 -> 2.265/5
