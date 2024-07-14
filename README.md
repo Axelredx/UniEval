@@ -9,8 +9,8 @@ Legend:
                      Lower is the value in 2|3, higher the difficulty of subject itself|exam;).
 +         If the rating is 'N/A' (Not Assigned) followed by 'optional' it means that i've succeded the subject without
           doing that part cause that part was optional (in this case the final grade will be arbitrarily lowered by
-          the professor); If instead 'N/A' is followed by 'only if requested by professor' it means that that that part
-          of exam was necessary only if requested by the professor (in this case the final grade won't be lowered).
+          the professor); If instead 'N/A' is followed by 'only if requested by professor' it means that that that
+          part of exam was necessary only if requested by the professor (in this case the final grade won't be lowered).
 
 # 1st YEAR
 
