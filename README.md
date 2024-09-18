@@ -1,18 +1,21 @@
 # UniEval
-NOTE: this file is not intended to offend anyone in any way, it MUST be treated only like a personal diary where i do a recap of the subject I've succeded at Computer Science an Technology course at UniBo. (work in progress!)
+_NOTE_: this file is **not** intended to offend **anyone** in **any way**, it **MUST** be treated only like a personal diary where I do a recap of the subject I've succeded at Computer Science and Technology course at UniBo. (work in progress!)
 
 Legend: 
-+         each subject is valuated with a rating 0 to 5 in:
-                    1.Personal level of interest 2.Difficulty of the subject
-                    3.Difficulty of the exams    4.Average evaluation
-                    (Higher is the 1|4. value, higher is the interest|personal appreciation of the subject; 
-                     Lower is the value in 2|3, higher the difficulty of subject itself|exam;).
-+         If the rating is 'N/A' (Not Assigned) followed by 'optional' it means that i've succeded the subject without
-          doing that part cause that part was optional (in this case the final grade will be arbitrarily lowered by
-          the professor); If instead 'N/A' is followed by 'only if requested by professor' it means that that that
-          part of exam was necessary only if requested by the professor (in this case the final grade won't be lowered).
++     Each subject is valuated with a rating 0 to 5 in:
+          1.Personal level of interest   2.Difficulty of the subject
+          3.Difficulty of the exams      4.Average evaluation
+        +----------------------------------------------------------------------------------------+
+        | Higher is the 1|4. value, higher is the interest|personal appreciation of the subject; |
+        | Lower is the value in 2|3, higher the difficulty of subject itself|exam;).             |
+        +----------------------------------------------------------------------------------------+
++     If the rating is 'N/A' (Not Assigned) followed by 'optional' it means that i've succeded the subject without
+      doing that part cause it was optional (in this case the final grade will be arbitrarily lowered by the professor);
+      If instead 'N/A' is followed by 'only if requested by professor' it means that that that part of exam was necessary
+      only if requested by the professor (in this case the final grade won't be lowered).
+      (If requested by the student, it can always be done an additional optional oral exam to try to get a better grade)
 
-# 1st YEAR
+## 1st YEAR
 
   *Algebra e Geometria (Geometry and Linear Algebra, Matrix study and usage, Modular arithmetic, ...)*
 +         1) -> 2/5      2) -> 3/5
@@ -47,7 +50,7 @@ Legend:
           3) Written Exam -> 3/5  ||  Project (C++ game in ASCII graphics written using the library 'NCurses') -> 3/5
           4) -> 3,5/5
 
-# 2nd YEAR
+## 2nd YEAR
 
   *Ottimizzazione Combinatoria (Graph Algorithms, Linear Programming, ...)*
 +         1) -> 3.5/5      2) -> 3/5
@@ -68,3 +71,8 @@ Legend:
 +         1) -> 3.5/5      2) -> 3.5/5
           3) Written Exam -> 3/5  ||  Oral exam (only if requested by professor) -> N/A
           4) -> 3.33/5
+
+  *Calcolo delle Probabilità e Statistica (Probability calculus and Statistics)*
++         1) -> 2/5      2) -> 2.5/5
+          3) Written Exam -> 2.5/5  ||  Oral exam (only if requested) -> N/A
+          4) -> 2.33/5      
