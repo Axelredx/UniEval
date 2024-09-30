@@ -6,8 +6,9 @@ Legend:
           1.Personal level of interest   2.Difficulty of the subject
           3.Difficulty of the exams      4.Average evaluation
         +----------------------------------------------------------------------------------------+
-        | Higher is the 1|4. value, higher is the interest|personal appreciation of the subject; |
-        | Lower is the value in 2|3, higher the difficulty of subject itself|exam;).             |
+        | Higher is the 1 value, higher is the interest|personal appreciation of the subject;    |
+        | Lower is the value in 2|3, higher the difficulty of subject itself|exam;);             |
+        | 4 is the average of all previous values of the subject itself.
         +----------------------------------------------------------------------------------------+
 +     If the rating is 'N/A' (Not Assigned) followed by 'optional' it means that i've succeded the subject without
       doing that part cause it was optional (in this case the final grade will be arbitrarily lowered by the professor);
@@ -23,7 +24,7 @@ Legend:
           4) -> 2,375/5
 
   *Algoritmi e Strutture di Dati (Exploration Graphs Alghorithms, Complex Data structure, Knapsack problem, study of O() of a function, ...)*
-+          1) -> 4,5/5      2) -> 4/5
++         1) -> 4,5/5      2) -> 4/5
           3) Written Exam -> 1,5/5  ||  Project (AI that predict up to 8 moves ahead in ConnectX game in .java)-> 3,5/5
           4) -> 3,375/5
 
@@ -76,3 +77,8 @@ Legend:
 +         1) -> 2/5      2) -> 2.5/5
           3) Written Exam -> 2.5/5  ||  Oral exam (only if requested) -> N/A
           4) -> 2.33/5      
+
+  *Sistemi Operativi (Unix based Operative Systems, Concurrency Paradigms like Semaphores, Message Passing and Monitor, OS development in C, linux system calls...)*
++         1) -> 5/5      2) -> 3.5/5
+          3) Written Exam -> 1,5/5  ||  Project (MicroKernel for uPANDOS, in C)-> 1.5/5 ||  Oral exam (only if requested) -> N/A
+          4) -> 2.875/5
